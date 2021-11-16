@@ -27,7 +27,7 @@ selectedmembers=5
 skills=8
 low=-1
 high=2
-th=3
+th=1
 humans={}
 members=[]
 random.seed(8)
